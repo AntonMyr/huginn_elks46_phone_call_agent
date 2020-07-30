@@ -20,7 +20,14 @@ And then execute:
 
     $ bundle
 
-You can now use this agent in your Huginn instance!
+You can now make phone calls from your Huginn instance, have fun!
+
+## Want more?
+
+Check out these agents as well:
+
+-   [Sending MMS from Huginn]()
+-   [Sending SMS from Huginn]()
 
 ## Development
 
