@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["antonmyr"]
   spec.email         = ["anton@46elks.com"]
 
-  spec.summary       = %q{Huginn Agent for using 46elks phone call feature.}
+  spec.summary       = %q{Make phone calls with various features from Huginn using https://46elks.com.}
 
   spec.homepage      = "https://github.com/antonmyr/huginn_elks46_phone_call_agent"
 
